@@ -1,0 +1,87 @@
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 28 21:06:46.845224 2022] [mpm_event:notice] [pid 19425:tid 4627301888] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Oct 28 21:06:46.847198 2022] [core:notice] [pid 19425:tid 4627301888] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Fri Oct 28 22:31:13.538371 2022] [mpm_event:notice] [pid 19425:tid 4627301888] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 28 22:31:18.487251 2022] [mpm_event:notice] [pid 21803:tid 4642481664] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Oct 28 22:31:18.488008 2022] [core:notice] [pid 21803:tid 4642481664] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Sun Nov 13 10:50:56.143018 2022] [mpm_event:notice] [pid 21803:tid 4642481664] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Sun Nov 13 10:55:13.228681 2022] [mpm_event:notice] [pid 96267:tid 4404966912] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Nov 13 10:55:13.229947 2022] [core:notice] [pid 96267:tid 4404966912] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Sun Nov 27 15:06:06.809306 2022] [mpm_event:notice] [pid 96267:tid 4404966912] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 02 17:47:12.454860 2022] [mpm_event:notice] [pid 7863:tid 4641392128] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 02 17:47:12.455658 2022] [core:notice] [pid 7863:tid 4641392128] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Thu Dec 08 20:15:18.296324 2022] [mpm_event:notice] [pid 7863:tid 4641392128] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 16 16:44:11.192988 2022] [mpm_event:notice] [pid 65899:tid 4517185024] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 16 16:44:11.195688 2022] [core:notice] [pid 65899:tid 4517185024] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Fri Dec 23 00:18:07.123111 2022] [mpm_event:notice] [pid 65899:tid 4517185024] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 30 20:07:45.367528 2022] [mpm_event:notice] [pid 77666:tid 4342826496] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Dec 30 20:07:45.368128 2022] [core:notice] [pid 77666:tid 4342826496] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Fri Dec 30 23:13:06.902822 2022] [mpm_event:notice] [pid 77666:tid 4342826496] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Sat Dec 31 23:05:14.415314 2022] [mpm_event:notice] [pid 88802:tid 4763100672] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Dec 31 23:05:14.416124 2022] [core:notice] [pid 88802:tid 4763100672] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Sun Jan 01 18:06:42.511813 2023] [mpm_event:notice] [pid 88802:tid 4763100672] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 03 17:50:21.032276 2023] [mpm_event:notice] [pid 97272:tid 4579390976] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Jan 03 17:50:21.033230 2023] [core:notice] [pid 97272:tid 4579390976] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Thu Jan 05 23:38:11.236546 2023] [mpm_event:notice] [pid 97272:tid 4579390976] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 06 13:56:26.972522 2023] [mpm_event:notice] [pid 10013:tid 4552701440] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Fri Jan 06 13:56:26.973489 2023] [core:notice] [pid 10013:tid 4552701440] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Sat Jan 07 14:20:28.743664 2023] [mpm_event:notice] [pid 10013:tid 4552701440] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 09 17:19:43.466520 2023] [mpm_event:notice] [pid 23348:tid 4772251136] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Jan 09 17:19:43.467641 2023] [core:notice] [pid 23348:tid 4772251136] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Tue Jan 10 18:50:28.551534 2023] [mpm_event:notice] [pid 23348:tid 4772251136] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 10 18:52:12.006743 2023] [mpm_event:notice] [pid 32294:tid 4360992256] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Tue Jan 10 18:52:12.007708 2023] [core:notice] [pid 32294:tid 4360992256] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Wed Jan 11 08:03:52.790334 2023] [mpm_event:notice] [pid 32294:tid 4360992256] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 11 15:12:52.899444 2023] [mpm_event:notice] [pid 58535:tid 4618401280] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jan 11 15:12:52.901371 2023] [core:notice] [pid 58535:tid 4618401280] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Thu Jan 12 16:03:54.283021 2023] [mpm_event:notice] [pid 58535:tid 4618401280] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 14 19:15:58.150531 2023] [mpm_event:notice] [pid 54218:tid 4652226048] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Jan 14 19:15:58.150889 2023] [core:notice] [pid 54218:tid 4652226048] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Sat Jan 14 23:06:58.309940 2023] [mpm_event:notice] [pid 54218:tid 4652226048] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 15 22:35:05.121173 2023] [mpm_event:notice] [pid 66259:tid 4490376704] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Jan 15 22:35:05.121928 2023] [core:notice] [pid 66259:tid 4490376704] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Sun Jan 15 22:37:25.601192 2023] [mpm_event:notice] [pid 66259:tid 4490376704] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 15 22:45:15.560482 2023] [mpm_event:notice] [pid 66396:tid 4601787904] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sun Jan 15 22:45:15.561686 2023] [core:notice] [pid 66396:tid 4601787904] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Tue Jan 17 20:59:53.595735 2023] [mpm_event:notice] [pid 66396:tid 4601787904] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 18 14:24:03.017035 2023] [mpm_event:notice] [pid 82630:tid 4746302976] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jan 18 14:24:03.017866 2023] [core:notice] [pid 82630:tid 4746302976] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Fri Jan 20 10:07:06.934056 2023] [mpm_event:notice] [pid 82630:tid 4746302976] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 21 12:01:03.067100 2023] [mpm_event:notice] [pid 38927:tid 4470990336] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Jan 21 12:01:03.067786 2023] [core:notice] [pid 38927:tid 4470990336] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Sat Jan 21 16:30:20.534289 2023] [mpm_event:notice] [pid 38927:tid 4470990336] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 21 21:05:35.468187 2023] [mpm_event:notice] [pid 45609:tid 4677576192] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Sat Jan 21 21:05:35.468840 2023] [core:notice] [pid 45609:tid 4677576192] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Sat Jan 21 23:01:36.220296 2023] [mpm_event:notice] [pid 45609:tid 4677576192] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 23 18:36:54.973412 2023] [mpm_event:notice] [pid 51647:tid 4567209472] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Mon Jan 23 18:36:54.975030 2023] [core:notice] [pid 51647:tid 4567209472] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Tue Jan 24 10:52:58.775566 2023] [mpm_event:notice] [pid 51647:tid 4567209472] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 25 22:36:49.235685 2023] [mpm_event:notice] [pid 65880:tid 4544927232] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Jan 25 22:36:49.238620 2023] [core:notice] [pid 65880:tid 4544927232] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Wed Feb 01 10:21:14.033515 2023] [mpm_event:notice] [pid 65880:tid 4544927232] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 01 10:23:53.915391 2023] [mpm_event:notice] [pid 4695:tid 4448392704] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Feb 01 10:23:53.916075 2023] [core:notice] [pid 4695:tid 4448392704] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
+[Wed Feb 01 11:23:22.280227 2023] [mpm_event:notice] [pid 4695:tid 4448392704] AH00491: caught SIGTERM, shutting down
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using nakatamotonoMacBook-Air.local. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 01 11:47:43.524870 2023] [mpm_event:notice] [pid 9382:tid 4520027648] AH00489: Apache/2.4.43 (Unix) configured -- resuming normal operations
+[Wed Feb 01 11:47:43.526244 2023] [core:notice] [pid 9382:tid 4520027648] AH00094: Command line: '/Users/nakatagen/Library/Application Support/Local/lightning-services/apache-2.4.43+7/bin/darwin/bin/httpd -D FOREGROUND -f /Users/nakatagen/Library/Application Support/Local/run/aWxt0tm3V/conf/apache/apache2.conf'
